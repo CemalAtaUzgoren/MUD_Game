@@ -1,0 +1,7 @@
+Name,UserID,Character,Moves,Date&Time
+baris,brs123,Mario,count(6),2023-12-26 12:50:04
+atata,werty,Tom,count(6),2023-12-26 22:31:23
+efefe,qwsa,Tom,count(6),2023-12-26 22:34:30
+ww,sdfr,Tom,count(6),2024-01-13 15:00:56
+ata,ata123,Tom,count(6),2024-01-13 16:34:43
+ata,ata123,Tom,count(6),2024-01-13 16:34:52
